@@ -1,6 +1,6 @@
 - 👋 Hi,@Anushka-SD here!
-- 👀 I’m interested in all things Tech and Science
-- 🌱 I’m currently learning Java, Python, Web development and DSA
+- 🤔 I’m interested in all things Tech and Science
+- 👩🏻‍💻 I’m currently learning Java, Python, Web development and DSA
 - 📫 Reach me at...
 
 <!---
