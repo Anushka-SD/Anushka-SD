@@ -1,8 +1,7 @@
 - 👋 Hi,@Anushka-SD here!
 - 👀 I’m interested in all things Tech and Science
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at ...
+- 🌱 I’m currently learning Java, Python, Web development and DSA
+- 📫 Reach me at...
 
 <!---
 Anushka-SD/Anushka-SD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
